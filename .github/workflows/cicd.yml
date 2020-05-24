@@ -42,9 +42,9 @@ jobs:
     if: github.ref == 'refs/heads/master'
     steps:
     - name: Download webpack build
-        uses: actions/download-artifact@v1
-        with:
-          name: build
+      uses: actions/download-artifact@v1
+      with:
+        name: build
     - name: Deploy to S3
       uses: jakejarvis/s3-sync-action@master
       with:
