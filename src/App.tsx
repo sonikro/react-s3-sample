@@ -10,6 +10,9 @@ function App() {
         <p>
           This is a sample webpage to test serverless webpages
         </p>
+        <p>
+          V2
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
