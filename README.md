@@ -3,6 +3,9 @@
 
 This project was developed in order to test Github Actions + S3 Deployment + CDN (CloudFront) Configuration
 
+This application is deployed to a S3 Bucket at: [http://react-s3-sample-app.s3-website-us-east-1.amazonaws.com/](http://react-s3-sample-app.s3-website-us-east-1.amazonaws.com/)
+
+However, the end user will access the application using CloudFront CDN System, located at [https://react-s3-sample.sonikro.com/](https://react-s3-sample.sonikro.com/)
 ## Available Scripts
 
 In the project directory, you can run:
