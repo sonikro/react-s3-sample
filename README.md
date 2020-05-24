@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react-s3-sample
+
+This project was developed in order to test Github Actions + S3 Deployment + CDN (CloudFront) Configuration
 
 ## Available Scripts
 
