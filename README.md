@@ -1,3 +1,4 @@
+![Node.js CI](https://github.com/sonikro/react-s3-sample/workflows/Node.js%20CI/badge.svg)
 # react-s3-sample
 
 This project was developed in order to test Github Actions + S3 Deployment + CDN (CloudFront) Configuration
